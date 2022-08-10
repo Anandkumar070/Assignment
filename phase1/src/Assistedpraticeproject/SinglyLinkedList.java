@@ -1,4 +1,4 @@
-package dataStructures_ArrayList;
+package Assistedpraticeproject;
 
 import java.io.*; 
 public class SinglyLinkedList 
